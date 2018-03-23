@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\bin\Debug\WP-Server.exe.config
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\bin\Debug\WP-Server.exe
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\bin\Debug\WP-Server.pdb
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\obj\Debug\WP-Server.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\obj\Debug\WP_Server.Form1.resources
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\obj\Debug\WP_Server.Properties.Resources.resources
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\obj\Debug\WP-Server.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\obj\Debug\WP-Server.exe
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\WP-Server\obj\Debug\WP-Server.pdb

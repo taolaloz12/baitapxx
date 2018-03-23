@@ -1,0 +1,15 @@
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\bin\Debug\LTM-03-bai2-Client.exe
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\bin\Debug\LTM-03-bai2-Client.pdb
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM_03_bai2_Client.Form1.resources
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM_03_bai2_Client.Properties.Resources.resources
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.csproj.GenerateResource.Cache
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.exe
+C:\Users\SV\Desktop\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.pdb
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.exe
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.pdb
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\bin\Debug\LTM-03-bai2-Client.exe
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\bin\Debug\LTM-03-bai2-Client.pdb
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM_03_bai2_Client.Form1.resources
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM_03_bai2_Client.Properties.Resources.resources
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Năm 3\HKII\LTM\LTM-03-bai 2\LTM-03-bai2-Client\obj\x86\Debug\LTM-03-bai2-Client.csprojResolveAssemblyReference.cache
